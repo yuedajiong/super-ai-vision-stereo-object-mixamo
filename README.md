@@ -4,4 +4,4 @@
     full automatic download, one-click-to-download-all from mixamo
 
 # render_bpy: 
-    render with different camera pose and lighting
+    render with different camera-poses and lightings
